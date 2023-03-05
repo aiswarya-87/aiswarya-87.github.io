@@ -1,6 +1,6 @@
 # aiswarya-87.github.io
 
-<b>This repository contains the following:<b><br>
+<b>This repository contains the following:</b><br>
 <ul>
   <li>index.html - The profile page with links to the 3 projects</li>
   <li>Photo Album.html - Photo Album with image processing options</li>
